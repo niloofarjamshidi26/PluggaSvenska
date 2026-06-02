@@ -2,7 +2,7 @@
 
 PluggaSvenska 🇸🇪
 A lightweight Swedish grammar study tool built for SFI (C3A level) learners.
-→ Open the App
+→ Open the App: https://niloofarjamshidi26.github.io/PluggaSvenska/svenska.html
 
 What it does
 A mobile-friendly checklist covering the core grammar topics needed for SFI progression:
